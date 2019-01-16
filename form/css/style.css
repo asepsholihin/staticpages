@@ -32,7 +32,7 @@ select {
 }
 input:focus {
   outline: 0;
-  border-color: #64ac15;
+  border-color: #ff6c32;
 }
 input:focus + .input-icon i {
   color: #ff6c32;
@@ -68,7 +68,7 @@ select:focus,
 select:active {
   background-color: #ff6c32;
   color: #fff;
-  border-color: #64ac15;
+  border-color: #ff6c32;
 }
 input[type="checkbox"] {
   display: none;
