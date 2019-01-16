@@ -11,7 +11,7 @@ body {
   background-color: #e3e3e3;
 }
 h4 {
-  color: #7ed321;
+  color: #ff6c32;
 }
 input,
 input[type="radio"] + label,
@@ -35,10 +35,10 @@ input:focus {
   border-color: #64ac15;
 }
 input:focus + .input-icon i {
-  color: #7ed321;
+  color: #ff6c32;
 }
 input:focus + .input-icon:after {
-  border-right-color: #7ed321;
+  border-right-color: #ff6c32;
 }
 input[type="radio"] {
   display: none;
@@ -66,7 +66,7 @@ input[type="radio"]:checked + label,
 input:checked + label:before,
 select:focus,
 select:active {
-  background-color: #7ed321;
+  background-color: #ff6c32;
   color: #fff;
   border-color: #64ac15;
 }
@@ -118,7 +118,7 @@ select:active {
   outline: 0;
 }
 select option {
-  background-color: #7ed321;
+  background-color: #ff6c32;
   color: #fff;
 }
 .input-group {
